@@ -1,0 +1,28 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 36357
+
+[21:33:20] Extension host agent started.
+[21:33:20] [127.0.0.1][9f41e9d6][ManagementConnection] New connection established.
+[21:33:20] [127.0.0.1][e264beae][ExtensionHostConnection] New connection established.
+[21:33:20] [127.0.0.1][e264beae][ExtensionHostConnection] <15154> Launched Extension Host Process.
+[21:33:39] [127.0.0.1][9f41e9d6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:33:40] [127.0.0.1][e264beae][ExtensionHostConnection] <15154> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[21:33:40] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[21:33:45] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[21:33:45] Cancelling previous shutdown timeout
+[21:33:46] [127.0.0.1][cc264d22][ManagementConnection] New connection established.
+[21:33:46] [127.0.0.1][1470b7f0][ExtensionHostConnection] New connection established.
+[21:33:46] [127.0.0.1][1470b7f0][ExtensionHostConnection] <15319> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[21:38:45] New EH opened, aborting shutdown

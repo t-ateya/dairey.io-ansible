@@ -1,0 +1,15 @@
+#loadbalancer group
+[loadbalancer]
+lbo1
+
+#webserver group
+[webserver]
+app01
+app02
+
+#database group
+[db01]
+
+#control machine
+[control]
+control ansible_connection=local
