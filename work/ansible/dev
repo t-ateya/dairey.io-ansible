@@ -8,7 +8,8 @@ app01
 app02
 
 #database group
-[db01]
+[database]
+db01
 
 #control machine
 [control]
