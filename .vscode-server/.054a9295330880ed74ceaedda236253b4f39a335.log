@@ -35,3 +35,5 @@ Error: Unexpected SIGPIPE
 [04:55:47] [127.0.0.1][cc264d22][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
 [04:55:47] [127.0.0.1][cc264d22][ManagementConnection] The client has reconnected.
 [04:55:50] [127.0.0.1][1470b7f0][ExtensionHostConnection] The client has reconnected.
+[10:37:40] [127.0.0.1][cc264d22][ManagementConnection] The client has reconnected.
+[10:38:12] [127.0.0.1][1470b7f0][ExtensionHostConnection] The client has reconnected.
