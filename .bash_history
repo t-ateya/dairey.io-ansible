@@ -61,3 +61,16 @@ ls -la
 ls -al
 ls
 ansible -i dev --list-hosts all
+ls
+cd work
+ls
+cd ansible
+ls
+rm webserver.yml 
+ls
+cd playbooks/
+ls
+ansible --list hosts all
+ansible --list-hosts all
+ansible-playbook loadbalancer.yml
+wget -q0- http://lb01 | less

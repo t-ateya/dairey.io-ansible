@@ -23,3 +23,7 @@
 [2021-05-18 21:38:45.940] [remoteagent] [info] New EH opened, aborting shutdown
 [2021-05-18 22:35:11.698] [remoteagent] [info] [127.0.0.1][cc264d22][ManagementConnection] The client has reconnected.
 [2021-05-18 22:35:12.066] [remoteagent] [info] [127.0.0.1][1470b7f0][ExtensionHostConnection] The client has reconnected.
+[2021-05-19 04:52:36.757] [remoteagent] [info] [127.0.0.1][cc264d22][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-05-19 04:55:47.404] [remoteagent] [info] [127.0.0.1][cc264d22][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-05-19 04:55:47.406] [remoteagent] [info] [127.0.0.1][cc264d22][ManagementConnection] The client has reconnected.
+[2021-05-19 04:55:50.156] [remoteagent] [info] [127.0.0.1][1470b7f0][ExtensionHostConnection] The client has reconnected.
