@@ -1,6 +1,6 @@
 #loadbalancer group
 [loadbalancer]
-lbo1
+lb01
 
 #webserver group
 [webserver]
