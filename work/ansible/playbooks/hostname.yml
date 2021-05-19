@@ -1,9 +1,9 @@
 #yml starts with 3 hyphens
 --- 
-  - hosts: all
-    tasks:
-        - name: get server hostname
-          command: hostname
+- hosts: all
+  tasks:
+      - name: get server hostname
+        command: hostname
 
 
 

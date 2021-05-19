@@ -1,16 +1,12 @@
-#loadbalancer group
 [loadbalancer]
 lb01
 
-#webserver group
 [webserver]
 app01
 app02
 
-#database group
 [database]
 db01
 
-#control machine
 [control]
 control ansible_connection=local
